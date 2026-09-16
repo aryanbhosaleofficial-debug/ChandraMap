@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use ChandraMap in your research or software, please cite it using the metadata in this file."
+title: ChandraMap
+abstract: >-
+  ChandraMap is an open-source research software project for lunar image
+  correspondence and registration across multi-sensor imagery, addressing
+  differences in resolution, illumination, Sun angle, scale, and modality,
+  with an emphasis on geometric verification and reproducible evaluation.
+type: software
+authors:
+  - family-names: Bhosale
+    given-names: Aryan
+keywords:
+  - lunar image registration
+  - image correspondence
+  - remote sensing
+  - computer vision
+  - Chandrayaan-2
+  - Lunar Reconnaissance Orbiter
+  - multi-sensor image registration
+  - geospatial localization
+  - planetary science
